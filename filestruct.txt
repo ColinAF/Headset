@@ -1,0 +1,10 @@
+Headset/
+├─ CMakeLists.txt
+├─ src/
+│   ├─ main.cpp
+│   ├─ shaders/
+│   │   ├─ vertex_shader.glsl
+│   │   └─ fragment_shader.glsl
+└─ external/
+    ├─ glad/      (or GLEW if you prefer)
+    └─ glfw/      (compiled or downloaded)
